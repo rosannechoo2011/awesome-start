@@ -26,4 +26,5 @@ after_success:
 #- wget http://googleappengine.googlecode.com/files/google_appengine_1.7.4.zip -nv
 #- unzip -q google_appengine_1.7.4.zip
 #- google_appengine/appcfg.py --oauth2_refresh_token=$GAE_TOKEN update awesome-start
-#
+
+..//WWWWWPOOOOADASASS
